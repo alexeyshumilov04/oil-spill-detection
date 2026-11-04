@@ -36,7 +36,7 @@ Below is an example of oil spill detection on a Sentinel-2 image from the **Indo
 ## 📂 Project Structure
 
 ```text
-OilSpillDetection/
+oil-spill-detection/
 │
 ├── datasets/                  # Data directory 
 │   ├── raw/                   # Raw downloaded images (oil_spill / no_spill)
@@ -78,7 +78,7 @@ OilSpillDetection/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/alexeyshumilov04/OilSpillDetection.git
+git clone https://github.com/alexeyshumilov04/oil-spill-detection.git
 cd OilSpillDetection
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
