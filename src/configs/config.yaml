@@ -1,0 +1,9 @@
+dataset:
+  patch_size: 64
+  threshold: 0.10
+  time_range: ["2023-10-01", "2023-12-31"]
+
+model:
+  input_shape: [64, 64, 3]
+  epochs: 5
+  batch_size: 32

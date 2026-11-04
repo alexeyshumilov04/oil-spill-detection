@@ -1,0 +1,17 @@
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ML Models & Data
+*.h5
+data/
+results/
+models/*
+!models/.gitkeep
