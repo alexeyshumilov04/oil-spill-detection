@@ -18,7 +18,7 @@ Below is an example of oil spill detection on a Sentinel-2 image from the **Indo
 
 | Annotated Detection | Detected Mask |
 |----------------|----------------|
-| ![Detection](datasets\processed\Indonesia_Sea\detection.png) | ![Mask](datasets\processed\Indonesia_Sea\mask.png) |
+| ![Detection](datasets/processed/Indonesia_Sea/detection.png) | ![Mask](datasets/processed/Indonesia_Sea/mask.png) |
 
 ---
 
