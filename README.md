@@ -133,9 +133,9 @@ docker run --env-file .env oil-spill-detection
 
 ## 📊 Results Summary
 
-*   **CNN Accuracy:** 94.5%
-*   **True Positive Rate:** 95.0%
-*   **True Negative Rate:** 96.5%
+*   **CNN Accuracy:** 95.0%
+*   **True Positive Rate:** 96.5%
+*   **True Negative Rate:** 94.5%
 *   **Parallel Speedup (8 cores):** 3.85×
 
 ---
